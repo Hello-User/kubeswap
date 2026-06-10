@@ -53,7 +53,7 @@ changelog:
 
 release:
   github:
-    owner: Hello-User
+    owner: ebarped
     name: kubeswap
   footer: >-
 
